@@ -1,5 +1,5 @@
 # rust-new-project-template
-A good starting point for a new Rust project
+Starting point for finishing the Data Engineering with Rust course found here: https://www.coursera.org/learn/data-engineering-rust
 
 ## References
 
